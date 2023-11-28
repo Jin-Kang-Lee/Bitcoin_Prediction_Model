@@ -3,7 +3,8 @@ Predict the price of Bitcoin, whether it will go up or down. Using data from var
 
 Backtesting system was also implemented while using a robust error metric to ensure and predict if the algorithm is performing well. 
 
-##Project Steps
+
+* Project Steps
 1. Load in data
 2. Clean and merge the data
 3. Create a machine learning model
